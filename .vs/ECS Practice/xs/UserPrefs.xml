@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{120F2340-67A3-37AE-6059-7AC8AF91CD18}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GridShot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BlackHoleSystem.cs" Line="21" Column="24" />
+      <File FileName="Assets/Scripts/ApplyForceSystem.cs" Line="20" Column="52" />
+      <File FileName="Assets/Scripts/Testing.cs" Line="57" Column="1" />
+      <File FileName="Assets/Scripts/Misc/ScreenshotManager.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Misc/RenderTexture.cs" Line="9" Column="46" />
+      <File FileName="Assets/Scripts/MouseAim.cs" Line="21" Column="9" />
+      <File FileName="Assets/Scripts/BallShooter.cs" Line="75" Column="10" />
+      <File FileName="Assets/Scripts/Settings.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/BasicShot.cs" Line="7" Column="36" />
+      <File FileName="Assets/Scripts/InputControl.cs" Line="17" Column="37" />
+      <File FileName="Assets/Scripts/iMakeShoot.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/ForceComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ForceToAddComponent.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GridShot.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
